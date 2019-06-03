@@ -1,0 +1,13 @@
+# Python
+project/__pycache__/
+
+# Python files
+*.pyc
+*.pyo
+
+# Settings
+.vscode
+
+# Student's work
+hello_from_victoria.py
+venv/
